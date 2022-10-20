@@ -1,5 +1,5 @@
 # A-Countdown-Timer
-## #we have created Countdown-Timer using TKINTER and TIME.
+##  we have created Countdown-Timer using TKINTER and TIME.
 ###  In this we have used python. 
 ### we will be able to start , stop , pause , reset , quit.
 ### we want to enter the time you wanted to RUN.
